@@ -1,0 +1,3 @@
+ERROR	2019-06-26 01:52:30,389	0	com.model.Log4jdemo	[main]	Error message
+FATAL	2019-06-26 01:52:30,389	0	com.model.Log4jdemo	[main]	Fatal message
+FATAL	2019-06-26 01:52:30,389	0	com.model.Log4jdemo	[main]	Catch block is executed successfully
